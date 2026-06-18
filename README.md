@@ -1,9 +1,9 @@
 # SecurityPractices
 
-_This is an old post scanning/multithreading/CLI/hashing project I made in Java. It's not being updated anymore - just here to keep it somewhere accessible.
+_This is an old post scanning/multithreading/CLI/hashing project I made in Java. It's not being updated anymore - just here to keep it somewhere accessible._
 
 
-Here's the standout upon opening the program to give you a gist:_
+_Here's the standout upon opening the program to give you a gist:_
 
 <img width="739" height="206" alt="image" src="https://github.com/user-attachments/assets/8499963c-1460-4a6f-af03-48e72f7021b7" />
 
